@@ -1,0 +1,15 @@
+Ejer. 5.22.
+Consulta en la documentación Java la clase String.
+Localiza los siguientes métodos y anota su signatura.
+Da una breve explicación de lo que hacen y pon un ejemplo.
+
+
+
+
+// replaceAll()
+// toLowerCase()
+// indexOf()
+// toUpperCase()
+// split()
+// trim()
+// valueOf()

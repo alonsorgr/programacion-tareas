@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="t126-idem-anterior-pero-en-vez-de-leer-de-teclado-los-nombres-seran-recibidos-como-argumentos-en-linea-de-comandos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/t126_idem_anterior_pero_en_vez_de_leer_de_teclado_los_nombres_seran_recibidos_como_argumentos_en_linea_de_comandos_jar</output-path>
+    <root id="archive" name="t126-idem-anterior-pero-en-vez-de-leer-de-teclado-los-nombres-seran-recibidos-como-argumentos-en-linea-de-comandos.jar">
+      <element id="module-output" name="t126-idem-anterior-pero-en-vez-de-leer-de-teclado-los-nombres-seran-recibidos-como-argumentos-en-linea-de-comandos" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+Actividad 6.4
+Buscar en la API de Java si la clase LinkedList tiene los métodos de la clase Stack
+
+LinkedList: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedList.html
+Stack: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Stack.html
+
+Tiene todos los métodos menos el empty

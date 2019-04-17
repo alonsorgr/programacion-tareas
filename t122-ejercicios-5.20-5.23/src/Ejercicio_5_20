@@ -1,0 +1,29 @@
+Ejer. 5.20.
+
+Localiza la clase Random en la documentación de Java.
+- https://docs.oracle.com/javase/10/docs/api/java/util/Random.
+
+¿En qué paquete está?
+- java.util
+
+¿Cómo se crea una instancia?
+- Random r = new Random();
+
+¿Qué hace el método nextInt()?
+- Devuelve el siguiente valor int pseudoaleatorio,
+  distribuido uniformemente de la secuencia de este generador de números aleatorios.
+
+-----------------------------------------------------------------------------------------
+
+Busca la clase Math.
+- https://docs.oracle.com/javase/10/docs/api/java/lang/Math.html
+
+¿En qué paquete está?
+- java.lang
+
+¿Qué hace el método round()?
+- Redondea el valor del real recibido hacia el positivo más cercano
+
+¿Qué es PI?
+- Una constante de clase
+

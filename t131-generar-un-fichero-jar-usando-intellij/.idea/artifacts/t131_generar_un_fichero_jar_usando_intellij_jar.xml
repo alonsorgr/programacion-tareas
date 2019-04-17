@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="t131-generar-un-fichero-jar-usando-intellij:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/t131_generar_un_fichero_jar_usando_intellij_jar</output-path>
+    <root id="archive" name="t131-generar-un-fichero-jar-usando-intellij.jar">
+      <element id="module-output" name="t131-generar-un-fichero-jar-usando-intellij" />
+    </root>
+  </artifact>
+</component>

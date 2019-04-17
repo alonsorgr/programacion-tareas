@@ -1,0 +1,8 @@
+Actividad 6.7 Consultar los métodos de la clase LinkedList en la API de Java que permiten
+usar la lista como una estructura LIFO (pila).
+
+
+peek()          Muestra el primer elemento sin extraer
+pop()           Devuelve el primer elemento de la lista
+push​(E item)    Inserta un elememnto al principio de la pila
+

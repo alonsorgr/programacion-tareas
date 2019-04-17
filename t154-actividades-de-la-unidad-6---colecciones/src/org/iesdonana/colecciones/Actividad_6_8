@@ -1,0 +1,5 @@
+Actividad 6.8 Idem anterior: FIFO (cola)
+
+addLast​(E e) Añade un elemento al final de la cola
+peek()          Muestra el primer elemento sin extraer
+pop()           Devuelve el primer elemento de la lista
