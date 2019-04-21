@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="t203-[es]-crear-un-comando-llamado-filcopy-que-copie-todas-las-lineas-de-un-fichero-de-texto-que-contengan-el-patron:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/t203__es__crear_un_comando_llamado_filcopy_que_copie_todas_las_lineas_de_un_fichero_de_texto_que_contengan_el_patron_jar</output-path>
+    <root id="archive" name="t203-[es]-crear-un-comando-llamado-filcopy-que-copie-todas-las-lineas-de-un-fichero-de-texto-que-contengan-el-patron.jar">
+      <element id="module-output" name="t203-[es]-crear-un-comando-llamado-filcopy-que-copie-todas-las-lineas-de-un-fichero-de-texto-que-contengan-el-patron" />
+    </root>
+  </artifact>
+</component>

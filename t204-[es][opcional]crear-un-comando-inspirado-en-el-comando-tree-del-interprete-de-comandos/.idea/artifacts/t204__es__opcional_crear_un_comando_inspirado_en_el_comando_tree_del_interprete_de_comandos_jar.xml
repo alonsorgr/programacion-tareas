@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="t204-[es][opcional]crear-un-comando-inspirado-en-el-comando-tree-del-interprete-de-comandos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/t204__es__opcional_crear_un_comando_inspirado_en_el_comando_tree_del_interprete_de_comandos_jar</output-path>
+    <root id="archive" name="t204-[es][opcional]crear-un-comando-inspirado-en-el-comando-tree-del-interprete-de-comandos.jar">
+      <element id="module-output" name="t204-[es][opcional]crear-un-comando-inspirado-en-el-comando-tree-del-interprete-de-comandos" />
+    </root>
+  </artifact>
+</component>

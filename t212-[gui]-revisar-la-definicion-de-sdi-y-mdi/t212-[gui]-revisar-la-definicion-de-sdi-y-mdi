@@ -1,0 +1,22 @@
+T212-[GUI] REVISAR LA DEFINICION DE SDI Y MDI EN PRO-DOCUMENTACION
+
+MDI: Intefáz de usuario en la que una ventana es padre de otras ventanas
+sin que estas puedan salir del marco del padre
+
+https://es.wikipedia.org/wiki/Interfaz_de_m%C3%BAltiples_documentos
+
+SDI: Intefáz de usuario en la que las ventanas son manejadas por separado
+por el gestor de ventanas del sistema operativo
+
+https://es.wikipedia.org/wiki/Interfaz_de_documento_%C3%BAnico
+
+
+DESCARGAR Y PROBAR GIMP E INKSCAPE
+GIMP (MDI)
+INKSCAPE (MDI)
+
+DESCARGAR Y PROBAR 2 APLICACIONES MDI Y DOS SDI
+
+¿QUE TIPO DE APLICACION ES INTELLIJ? ¿MDI O SDI? RAZONA TU RESPUESTA
+
+

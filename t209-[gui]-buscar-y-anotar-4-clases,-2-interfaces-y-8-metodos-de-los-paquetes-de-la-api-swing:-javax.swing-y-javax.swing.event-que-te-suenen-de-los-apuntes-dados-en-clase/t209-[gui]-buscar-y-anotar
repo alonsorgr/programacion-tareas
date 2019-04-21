@@ -1,0 +1,36 @@
+T209-[GUI] BUSCAR Y ANOTAR 4 CLASES, 2 INTERFACES Y 8 METODOS DE LOS PAQUETES DE LA API SWING: JAVAX.SWING Y JAVAX.SWING.EVENT QUE TE SUENEN DE LOS APUNTES DADOS EN CLASE
+
+CLASES:
+
+JButton : https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JButton.html
+
+JPanel: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JPanel.html
+
+JLabel: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JLabel.html
+
+JFrame: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JFrame.html
+
+INTERFACES: 
+
+ActionListener: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/event/ActionListener.html
+
+MouseListener: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/event/MouseListener.html
+
+MÉTODOS:
+
+JFrame: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JFrame.html
+
+add()
+addActionListener()
+setSize()
+setDefaultCloseOperation()
+setVisible()
+setLayout()
+
+JTextArea: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JFrame.html
+
+append()
+
+ActionListener: https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/event/ActionListener.html
+
+actionPerformed()

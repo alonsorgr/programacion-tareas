@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac36de3c-0035-42e8-866c-81f5a7e69d26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/src/iesdonana/excepciones/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t192-[es]-identificar-y-cazar-alguna-excepcion/t192-[es]-identificar-y-cazar-alguna-excepcion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/src/iesdonana/es/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar/t193-[es]-buscar-en-la-bibliografia-un-ejemplo-de-lectura-de-fichero-de-texto,-imlementar-y-probar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/src/iesdonana/es/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile)/t194-[es]-usar-finally-en-[javahowto10e]-fig.-15.6-(readtextfile).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/src/iesdonana/es/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile)/t195-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.6-(readtextfile).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/src/iesdonana/es/CreateTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile)/t196-[es]-usar-finally-en-[javahowto10e]-fig.-15.3-(createtextfile).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/src/iesdonana/es/CreateTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile)/t197-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.3-(createtextfile).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/src/iesdonana/es/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/src/iesdonana/es/CreateSequentialFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile/t198-[es]-identificar-y-modificar-el-codigo-para-cazar-las-excepciones-que-no-se-cazan-en-[javahowto10e]-fig.-15.10-createsequentialfile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/clients.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/src/iesdonana/es/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/src/iesdonana/es/CreateSequentialFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/src/iesdonana/es/ReadSequentialFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential)/t199-[es]-usar-try-con-recursos-en-[javahowto10e]-fig.-15.10-(createsequentialfile)-y-en-fig.-15.11-(readfilesequential).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/prueba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/src/iesdonana/es/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado/t200-[es]-crear-un-ejemplo-en-el-que-se-lea-de-un-fichero-controlando-la-excepciÓn-de-fichero-no-encontrado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/prueba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/src/iesdonana/excepciones/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/src/iesdonana/excepciones/Recibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t201-crear-una-clase-que-implemente-la-interface-autocloseable/t201-crear-una-clase-que-implemente-la-interface-autocloseable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/es/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t202-[es]-descargar-un-fichero-de-texto-de-internet-.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/es/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/iesdonana/es/Main.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/es/Principal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="31" />
+    <option name="width" value="719" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Escritorio" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="iesdonana.es.Principal" />
+      <module name="t202-[es]-descargar-un-fichero-de-texto-de-internet-" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac36de3c-0035-42e8-866c-81f5a7e69d26" name="Default Changelist" comment="" />
+      <created>1555518823377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555518823377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1440" height="869" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/information.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fichero.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/FilterInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/es/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
