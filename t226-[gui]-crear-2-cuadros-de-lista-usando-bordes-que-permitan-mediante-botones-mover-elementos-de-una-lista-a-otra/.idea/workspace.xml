@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7860c0b5-733d-463b-90de-8d0011230ff4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t220-[gui-gc]-anidados-(borderlayout-flowlayout)/t220-[gui-gc]-anidados-(borderlayout-flowlayout).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/src/iesdonana/gui/Casilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t221-[gui-gc]-minitablero-rojo-verde-(gridlayout)/t221-[gui-gc]-minitablero-rojo-verde-(gridlayout).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/src/iesdonana/gui/BotonColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/src/iesdonana/gui/MiTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t222-[gui-gc]-chuidiang-(gridbaglayout)/t222-[gui-gc]-chuidiang-(gridbaglayout).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/src/iesdonana/gui/Ventana_BKP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/src/iesdonana/gui/imagenes/candado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/src/iesdonana/gui/imagenes/dni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca/t225-[gui]-crear-un-formulario-de-inicio-de-sesion-lo-mas-parecido-posible-al-de-seneca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/Boton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/ListaTitulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/PanelBotones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/imagenes/actualizar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/imagenes/mover-derecha-todo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/imagenes/mover-derecha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/imagenes/mover-izquierda-todo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iesdonana/gui/imagenes/mover-izquierda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/out/production/t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/META-INF/t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/src/iesdonana/gui/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso/t227-[gui]-crear-un-ejemplo-donde-se-use-una-barra-de-progreso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/enums/TipoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/enums/TipoColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/formularios/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/modelos/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/src/iesdonana/gui/modelos/Personaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist/t228-[gui]-crear-un-formulario-que-use-jcombobox-y-jlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/imagenes/img-borrar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/imagenes/img-conectar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/imagenes/img-expulsar-disco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/imagenes/img-hard-drive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/imagenes/img-verificar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/utiles/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/src/iesdonana/gui/ventanas/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta/t230-[gui-swing]-realizar-un-programa-que-muestre-la-ventana-adjunta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Ventana.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2186#2401#0" expanded="true" />
+                <element signature="e#2400#2401#0" expanded="true" />
+                <element signature="e#2456#2835#0" expanded="true" />
+                <element signature="e#2834#2835#0" expanded="true" />
+                <element signature="e#2892#3277#0" expanded="true" />
+                <element signature="e#3276#3277#0" expanded="true" />
+                <element signature="e#3338#3673#0" expanded="true" />
+                <element signature="e#3672#3673#0" expanded="true" />
+                <element signature="e#3734#4069#0" expanded="true" />
+                <element signature="e#4068#4069#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/PanelBotones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Boton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/ListaTitulo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/Main.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/Principal.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/ListaTitulo.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/Constantes.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/imagenes/PanelBotones.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/Boton.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/PanelBotones.java" />
+        <option value="$PROJECT_DIR$/src/iesdonana/gui/Ventana.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="31" />
+    <option name="width" value="719" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Escritorio" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="iesdonana.gui.Principal" />
+      <module name="t226-[gui]-crear-2-cuadros-de-lista-usando-bordes-que-permitan-mediante-botones-mover-elementos-de-una-lista-a-otra" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7860c0b5-733d-463b-90de-8d0011230ff4" name="Default Changelist" comment="" />
+      <created>1557056291800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557056291800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="32" width="1440" height="868" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Constantes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/imagenes/PanelBotones.java" />
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Boton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/ListaTitulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/PanelBotones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iesdonana/gui/Ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2186#2401#0" expanded="true" />
+            <element signature="e#2400#2401#0" expanded="true" />
+            <element signature="e#2456#2835#0" expanded="true" />
+            <element signature="e#2834#2835#0" expanded="true" />
+            <element signature="e#2892#3277#0" expanded="true" />
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3338#3673#0" expanded="true" />
+            <element signature="e#3672#3673#0" expanded="true" />
+            <element signature="e#3734#4069#0" expanded="true" />
+            <element signature="e#4068#4069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
